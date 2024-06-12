@@ -8,4 +8,5 @@ nixpkgs 1:
   description: nixpkgs
   tags:
   - nixpkgs
+  - nix
 
