@@ -2,7 +2,7 @@
 # https://trovu.net/docs/shortcuts/
 
 
-examplekeyword nixpkgs:
+nixpkgs:
   url: https://search.nixos.org/packages?channel=unstable&type=packages&query=<query>
   title: Search Unstable Nixpkgs
   description: nixpkgs
